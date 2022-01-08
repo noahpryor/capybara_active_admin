@@ -29,5 +29,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'activeadmin'
   # spec.add_dependency 'devise'
-  spec.add_dependency 'rspec', '~> 3.0'
+  spec.add_dependency 'rspec'
 end
